@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello! My name is Broderick 👨‍💻 🐕 🕹 🏳️‍🌈
+*I'm a developer who really loves dogs and other nerdy things.*   
+
+![Image of my desk with my dog on it](https://i.imgur.com/EPAmz4b.png)
+
+
+😄 **Pronouns**: He/Him  
+🐕 **Dog's Info**: Toby, Chihuahua and Rat Terrier Mix, Very Grumpy And Old but Still Dumb  
+💻 **Commonly Used Languages**: C#, Asp.Net MVC, JavaScript, HTML, CSS, Python, and SQL.  
+🎷 **Hobbies**: Listening To/Performing/Writing Music, D&D 5e, Overwatch, Playing With My Dog, Travel, Cooking
 
 <!--
 **B-Lemke/B-Lemke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
