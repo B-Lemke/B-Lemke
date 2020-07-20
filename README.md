@@ -1,4 +1,4 @@
-### Hello! My name is Broderick 👨‍💻 🐕 🕹 🏳️‍🌈
+## Hello! My name is Broderick 👨‍💻 🐕 🕹 🏳️‍🌈
 *I'm a developer who really loves dogs and other nerdy things.*   
 
 ![Image of my desk with my dog on it](https://i.imgur.com/EPAmz4b.png)
